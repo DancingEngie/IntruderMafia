@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 392530587
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cae6f531be181f37b95251ca0894a974
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Level1.unity
+Dependencies: []
