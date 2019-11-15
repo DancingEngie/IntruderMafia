@@ -26,15 +26,10 @@ public class CustomLevelSettings:MonoBehaviour
 	
 	public void Start()
 	{
-
+	
 	}
-
-    void OnGUI()
-    {
-        GUI.Label(new Rect(10, 10, 100, 20), "Hello World!");
-    }
-
-public void SetSettings()
+	
+	public void SetSettings()
 	{
 	
 		fog = RenderSettings.fog;
