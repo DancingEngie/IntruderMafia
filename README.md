@@ -11,9 +11,9 @@ An experimental and mostly untested feature is the addition of 'advanced roles' 
 ## State of Affairs
 The role-giving system, activated through a series of hidden Activators, is contrived but functional. The level's layout is mostly done but is filled with dev textures. 
 
-I started working on this map in late February 2019 and ran playtests through early March. From the get-go, I wanted to give the map's source out to the public to build upon the game mode or even to just learn how it works. However, due to various reasons, the biggest one being Intruder's mapmaking package highly limiting nature, I unfortunately won't be updating the map further, or at least very rarely.
+I started working on this map in late February 2019 and ran playtests through early March. From the get-go, I wanted to give the map's source out to the public to build upon the game mode or even to just learn how it works. However, due to various reasons, the biggest one being getting a job (as well as Intruder's mapmaking package highly limiting nature), I unfortunately won't be updating the map further, or at least very rarely.
 
 ## License
-Basically, do whatever you want with the level, the concept, the graphic designs etc., but I am not liable for anything you do with it. Credit is really appriciated but not necessary.
+Basically, do whatever you want with the level, the concept, the graphic designs etc., but I am not liable for anything you do with it. Credit for the original design/graphics is really appriciated.
 
-Some asset store assets were used, mainly Concrete Texture Pack, the helicopter model and ProBuilder (sorry, #MapMaker community). You can find these in the "Imported" folder in the project itself. These obviously use Unity's Asset Store license.
+Some asset store assets were used, mainly Concrete Texture Pack, the helicopter model and ProBuilder (sorry, #MapMaker community). You can find these in the "Imported" folder in the project itself. These obviously use Unity's Asset Store license. Icons by GameIcons.net, licensed under CC-BY (if you do change this map, make sure you credit them. Such are the license terms, and also because it's the polite thing to do).
